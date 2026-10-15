@@ -9,7 +9,7 @@ WormholeSystems is built in the open, and contributions of every size are welcom
 
 ## The main repo
 
-**[WormholeSystems/WormholeSystems](https://github.com/WormholeSystems/WormholeSystems)** — the main repository behind wormhole.systems, a Laravel (PHP) + Vue application.
+**[wormholesystems/wormholesystems-legacy](https://github.com/wormholesystems/wormholesystems-legacy)** — the main repository behind wormhole.systems, a Laravel (PHP) + Vue application.
 
 Start by reading the repo's README, then:
 

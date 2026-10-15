@@ -369,7 +369,7 @@ const vReveal = {
                                 </div>
                                 <div class="flex flex-col divide-y divide-border/50">
                                     <a
-                                        href="https://github.com/WormholeSystems/WormholeSystems"
+                                        href="https://github.com/wormholesystems/wormholesystems-legacy"
                                         target="_blank"
                                         rel="noopener noreferrer"
                                         class="oss-link group"
@@ -386,7 +386,7 @@ const vReveal = {
                                         />
                                     </a>
                                     <a
-                                        href="https://github.com/WormholeSystems/wormholesystems-containers"
+                                        href="https://github.com/wormholesystems/wormholesystems-containers"
                                         target="_blank"
                                         rel="noopener noreferrer"
                                         class="oss-link group"
@@ -714,7 +714,7 @@ const vReveal = {
                     </div>
                     <nav class="flex items-center gap-2">
                         <a
-                            href="https://github.com/WormholeSystems/WormholeSystems"
+                            href="https://github.com/wormholesystems/wormholesystems-legacy"
                             target="_blank"
                             rel="noopener noreferrer"
                             class="inline-flex items-center gap-2 rounded-md px-2 py-1.5 text-sm text-muted-foreground transition-colors hover:text-foreground"
@@ -723,7 +723,7 @@ const vReveal = {
                             Source
                         </a>
                         <a
-                            href="https://github.com/WormholeSystems/wormholesystems-containers"
+                            href="https://github.com/wormholesystems/wormholesystems-containers"
                             target="_blank"
                             rel="noopener noreferrer"
                             class="inline-flex items-center gap-2 rounded-md px-2 py-1.5 text-sm text-muted-foreground transition-colors hover:text-foreground"

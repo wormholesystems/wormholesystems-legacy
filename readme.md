@@ -1,16 +1,16 @@
 # WormholeSystems
 
-[![tests](https://github.com/WormholeSystems/WormholeSystems/actions/workflows/tests.yml/badge.svg)](https://github.com/WormholeSystems/WormholeSystems/actions/workflows/tests.yml)
-[![linter](https://github.com/WormholeSystems/WormholeSystems/actions/workflows/lint.yml/badge.svg)](https://github.com/WormholeSystems/WormholeSystems/actions/workflows/lint.yml)
-[![License](https://img.shields.io/github/license/WormholeSystems/WormholeSystems)](LICENSE)
-[![Stack](https://img.shields.io/badge/self--host-wormholesystems--containers-blue)](https://github.com/WormholeSystems/wormholesystems-containers)
-[![wsctl](https://img.shields.io/github/v/release/WormholeSystems/wormholesystems-cli?label=wsctl)](https://github.com/WormholeSystems/wormholesystems-cli)
+[![tests](https://github.com/wormholesystems/wormholesystems-legacy/actions/workflows/tests.yml/badge.svg)](https://github.com/wormholesystems/wormholesystems-legacy/actions/workflows/tests.yml)
+[![linter](https://github.com/wormholesystems/wormholesystems-legacy/actions/workflows/lint.yml/badge.svg)](https://github.com/wormholesystems/wormholesystems-legacy/actions/workflows/lint.yml)
+[![License](https://img.shields.io/github/license/wormholesystems/wormholesystems-legacy)](LICENSE)
+[![Stack](https://img.shields.io/badge/self--host-wormholesystems--containers-blue)](https://github.com/wormholesystems/wormholesystems-containers)
+[![wsctl](https://img.shields.io/github/v/release/wormholesystems/wormholesystems-cli?label=wsctl)](https://github.com/wormholesystems/wormholesystems-cli)
 
 Wormhole mapping and tracking for EVE Online — live at [wormhole.systems](https://wormhole.systems). Real-time chain maps, signatures, character tracking and killmail intel, built with Laravel 12, Inertia.js, Vue 3 and Tailwind CSS.
 
 ## Self-hosting
 
-To run your own instance you don't need this repository directly — use the [container stack](https://github.com/WormholeSystems/wormholesystems-containers) with its interactive setup wizard:
+To run your own instance you don't need this repository directly — use the [container stack](https://github.com/wormholesystems/wormholesystems-containers) with its interactive setup wizard:
 
 ```bash
 curl --proto '=https' --tlsv1.2 -sSf https://install.wormhole.systems | sh
@@ -23,7 +23,7 @@ The rest of this README is about developing the application itself.
 **Requirements:** PHP 8.4+, Composer, MySQL/MariaDB, Redis, Node.js + npm. We strongly recommend [Laravel Herd](https://herd.laravel.com/), which provides all of it pre-configured with automatic HTTPS.
 
 ```bash
-git clone https://github.com/WormholeSystems/WormholeSystems.git
+git clone https://github.com/wormholesystems/wormholesystems-legacy.git
 cd WormholeSystems
 
 cp .env.example .env
@@ -169,8 +169,8 @@ Fork, branch, make your changes, then `php artisan test` and `vendor/bin/pint` b
 
 ## Related repositories
 
-- [wormholesystems-containers](https://github.com/WormholeSystems/wormholesystems-containers) — production docker stack
-- [wormholesystems-cli](https://github.com/WormholeSystems/wormholesystems-cli) — `wsctl` setup and management tool
+- [wormholesystems-containers](https://github.com/wormholesystems/wormholesystems-containers) — production docker stack
+- [wormholesystems-cli](https://github.com/wormholesystems/wormholesystems-cli) — `wsctl` setup and management tool
 
 ## License
 
