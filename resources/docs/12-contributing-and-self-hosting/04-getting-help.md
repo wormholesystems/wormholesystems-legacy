@@ -15,7 +15,7 @@ Good for: setup questions, [self-hosting](/documentation/contributing-and-self-h
 
 ## GitHub issues
 
-For reproducible **bugs** and concrete **feature requests**, open an issue on the [main repository](https://github.com/WormholeSystems/WormholeSystems). A clear issue is easier to track and fix than a message that scrolls away in chat.
+For reproducible **bugs** and concrete **feature requests**, open an issue on the [main repository](https://github.com/wormholesystems/wormholesystems-legacy). A clear issue is easier to track and fix than a message that scrolls away in chat.
 
 ## This documentation
 

@@ -14,5 +14,5 @@ return [
     |
     */
 
-    'edit_base_url' => env('DOCS_EDIT_BASE_URL', 'https://github.com/WormholeSystems/WormholeSystems/edit/main'),
+    'edit_base_url' => env('DOCS_EDIT_BASE_URL', 'https://github.com/wormholesystems/wormholesystems-legacy/edit/main'),
 ];

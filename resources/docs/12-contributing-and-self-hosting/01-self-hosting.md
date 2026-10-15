@@ -11,7 +11,7 @@ WormholeSystems is open source, and you can run your **own private instance** in
 
 There's a ready-made Docker setup for it:
 
-**[WormholeSystems/wormholesystems-containers](https://github.com/WormholeSystems/wormholesystems-containers)** — a Docker container setup to host a private wormhole.systems instance.
+**[wormholesystems/wormholesystems-containers](https://github.com/wormholesystems/wormholesystems-containers)** — a Docker container setup to host a private wormhole.systems instance.
 
 It bundles the app and the services it needs so you can stand up an instance with Docker rather than wiring everything together by hand. Follow the repo's README for the exact, up-to-date steps; at a high level you'll:
 
